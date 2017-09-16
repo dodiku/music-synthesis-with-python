@@ -3,18 +3,17 @@ This is the repository for the Music Synthesis with Python talk.
 
 ## Music Synthesis
 - [Pyo](ajaxsoundstudio.com/software/pyo/)
-  - **Pyo Demo (jupyter notebook)**
+  - **[Pyo Demo](https://dodiku.github.io/music-synthesis-with-python/02_Pyo_demo)** *(jupyter notebook)*
 - [Csound](http://www.csounds.com/)
   - [Python API](https://github.com/fggp/ctcsound)
 - [SuperCollider](http://supercollider.github.io/)
   - [FoxDot](http://foxdot.org/)
-  - **FoxDot Demo (jupyter notebook)**
-  -  [SC](https://pypi.python.org/pypi/SC  ) (Python 2.7 only)
+  -  [SC](https://pypi.python.org/pypi/SC  ) *(Python 2.7 only)*
 - [ChucK](http://chuck.cs.princeton.edu/)
 
 ## Audio Analysis
 - [libROSA](https://librosa.github.io/librosa/)
-  - **libROSA Demo (jupyter notebook)**
+  - **[libROSA Demo](https://dodiku.github.io/music-synthesis-with-python/03_librosa_demo)** *(jupyter notebook)*
 - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
 - [Essentia](http://essentia.upf.edu/documentation/)
 
