@@ -1,4 +1,4 @@
-# music-synthesis-with-python
+# Music Synthesis with Python
 This is the repository for the Music Synthesis with Python talk.
 
 #### Bio 👋
@@ -39,3 +39,7 @@ d.stamail [at] gmail [dot] com
 
 ## Interactive Project
 [Luncz: Audio Analysis ➡️ Music Synthesis](https://www.youtube.com/watch?v=tDfZ33jsTyk)
+
+
+## More computer music tools:
+- [Interactive Music Resources](https://github.com/juniorxsound/Interactive-Music)
