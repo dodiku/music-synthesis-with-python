@@ -4,7 +4,7 @@ This is the repository for the Music Synthesis with Python talk.
 #### Bio 👋
 Dror is a software engineer, product manager, and interaction designer. He researches and develops innovative music creation tools, using music information retrieval (MIR) techniques, digital signal processing (DSP), and machine learning algorithms, that will allow musicians to compose music in a variety of new ways and formats.  
 
-As a Product Manager, Dror worked for 6 years in the start-up industry, most notably for [Viber](https://www.viber.com/), from its early days until its [$900 acquisition](https://techcrunch.com/2014/02/13/japanese-internet-giant-rakuten-acquires-viber-for-900m/), and as the VP of Product Management for Buynando Technologies.  
+As a Product Manager, Dror worked for 7 years in the start-up industry, most notably as a Product Manager for [Viber](https://www.viber.com/), from its early days until its [$900 acquisition](https://techcrunch.com/2014/02/13/japanese-internet-giant-rakuten-acquires-viber-for-900m/), and as the VP of Product Management for Buynando Technologies.  
 
 Dror received his bachelor's degree from The Interdisciplinary Center, Herzliya (IDC, Israel) in Communications, Interactive Media and Human-Computer Interactions, and he currently studies for a masters degree at New York University’s Interactive Telecommunication Program (ITP).  
 
